@@ -1,0 +1,21 @@
+.row {
+    background-color: rgb(9, 11, 26);
+    width: 1000px;
+    margin: 20px;
+    padding: 40px;
+}
+
+.column {
+    width: 500px;
+}
+
+h1, h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: left;
+}
+
